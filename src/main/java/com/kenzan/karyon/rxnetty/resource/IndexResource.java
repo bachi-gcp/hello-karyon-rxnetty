@@ -58,7 +58,7 @@ public class IndexResource implements RequestHandler<ByteBuf, ByteBuf>{
                             // userdata = System.getenv("USERDATA");
                             /* Modified */
                             instanceId = execCmd("hostname");
-                            userdata = "Version 1.0";
+                            userdata = "Version1.0";
 
                         } catch (Exception e){
                             e.printStackTrace();
