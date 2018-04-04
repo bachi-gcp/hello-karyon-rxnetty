@@ -9,5 +9,5 @@
 9. Trigger Build Image, 12:01 AM
 10. Trigger Build Image, 11:45 AM
 11. Trigger Build Image, 01:12 AM
-11. Trigger Build Image, 01:59 AM
-12. Trigger Build Image, 05.45 AM
+12. Trigger Build Image, 01:59 AM
+13. Trigger Build Image, 06.10 AM
